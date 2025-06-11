@@ -52,7 +52,7 @@ N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
   
   - **Description** : Développement d’un jeu Snake en langage C dans le cadre d’un projet universitaire.
   - **Technologies** : C, Doxygen
-  - 👉 [Voir le projet]([#](https://github.com/yannislechevere/SAE-1.01))
+  - 👉 [Voir le projet](https://github.com/yannislechevere/SAE-1.01)
 </details>
 
 <details>
@@ -60,7 +60,7 @@ N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
   
   - **Description** : Création d’un site web sur les Jeux Olympiques de Paris 2024, projet de groupe universitaire.
   - **Technologies** : HTML, CSS
-  - 👉 [Voir le projet](#https://github.com/yannislechevere/SAE-1.01)
+  - 👉 [Voir le projet](https://github.com/yannislechevere/SAE-1.01)
 </details>
 
 ---
@@ -70,11 +70,4 @@ N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
 - 📧 **Email** : [yannis.lechevere@outlook.fr](mailto:yannis.lechevere@outlook.fr)
 - 📞 **Téléphone** : +33 6 56 80 32 42
 - 📍 **Localisation** : Lannion, France
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannislechevere)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/yannislechevere)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=09B2C7&center=true&vCenter=true&width=500&lines=Merci+de+votre+visite+!+;N'hésitez+pas+à+me+contacter+%F0%9F%91%8B" alt="Typing SVG">
-</p>
+- 📱 **LinkedIn** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannislechevere)
