@@ -1,6 +1,6 @@
 <!-- Banner animé avec GIF -->
 <p align="center">
-  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE1bW42MnFvbGg4eXMzMnJlZXJwdXNpYXowbHgyNzZiODd4aWdoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlCb3AjEE6N4Q/giphy.gif)" width="300" alt="Welcome Banner">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE1bW42MnFvbGg4eXMzMnJlZXJwdXNpYXowbHgyNzZiODd4aWdoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlCb3AjEE6N4Q/giphy.gif" width="300" alt="Welcome Banner">
 </p>
 
 <h1 align="center">Bienvenue sur le GitHub de Yannis LE CHEVERE 👋</h1>
