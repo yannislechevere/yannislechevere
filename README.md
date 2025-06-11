@@ -52,7 +52,7 @@ N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
   
   - **Description** : Développement d’un jeu Snake en langage C dans le cadre d’un projet universitaire.
   - **Technologies** : C, Doxygen
-  - 👉 [Voir le projet](#)
+  - 👉 [Voir le projet]([#](https://github.com/yannislechevere/SAE-1.01))
 </details>
 
 <details>
@@ -60,7 +60,7 @@ N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
   
   - **Description** : Création d’un site web sur les Jeux Olympiques de Paris 2024, projet de groupe universitaire.
   - **Technologies** : HTML, CSS
-  - 👉 [Voir le projet](#)
+  - 👉 [Voir le projet](#https://github.com/yannislechevere/SAE-1.01)
 </details>
 
 ---
