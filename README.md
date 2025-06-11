@@ -1,17 +1,43 @@
-# 👋 Salut, moi c’est Yannis!
+# Bienvenue sur le GitHub de Yannis LE CHEVERE 👋
 
-Bienvenue sur mon profil GitHub.
+## Présentation
 
-- 🔭 Je travaille sur : [nom du projet]
-- 🌱 J’apprends actuellement : [technos, sujets]
-- 💬 N’hésite pas à me contacter pour discuter de [sujet]
-- 📫 Me contacter : [email ou réseaux]
+Bonjour ! Je m'appelle **Yannis LE CHEVERE**.  
+Je suis actuellement étudiant en première année de BUT Informatique à l'IUT de Lannion.
 
-## 🚀 Mes compétences
+Sur ce compte GitHub, vous trouverez les différents projets que j'ai réalisés tout au long de mon année de BUT.  
+N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  
-## 📊 Statistiques
+---
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=yannislechevere&show_icons=true)
+## Compétences
+
+### Langages de programmation
+- **C**
+- **Java**
+- **HTML / CSS**
+- **Bash**
+- **PHP**
+
+### Systèmes d'exploitation
+- **Linux**
+- **macOS**
+- **Windows**
+
+### Outils & Environnements
+- **GitHub**
+- **Visual Studio Code**
+- **Docker**
+- **Eclipse**
+
+---
+
+## Contact
+
+- 📞 Téléphone : +33 6 56 80 32 42
+- 📧 Email : yannis.lechevere@outlook.fr
+- 📍 Localisation : Lannion, France
+
+---
+
+Merci de votre visite ! 😊
