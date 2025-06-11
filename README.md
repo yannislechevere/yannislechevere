@@ -7,7 +7,7 @@
 
 ---
 
-### QUI SUIS-JE ?
+# QUI SUIS-JE ?
 
 Bonjour ! Je m'appelle **Yannis LE CHEVERE**.<br>
 Étudiant en première année de **BUT Informatique** à l'IUT de Lannion.
