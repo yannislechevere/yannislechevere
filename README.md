@@ -1,10 +1,9 @@
-<!-- Banner animé avec GIF -->
+<h1 align="center"><strong>Bienvenue sur le GitHub de Yannis LE CHEVERE</strong></h1>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE1bW42MnFvbGg4eXMzMnJlZXJwdXNpYXowbHgyNzZiODd4aWdoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlCb3AjEE6N4Q/giphy.gif" width="300" alt="Welcome Banner">
 </p>
 
-<h1 align="center"><strong>Bienvenue sur le GitHub de Yannis LE CHEVERE</strong></h1>
-
+---
 
 # QUI SUIS-JE ?
 
@@ -14,7 +13,6 @@ Bonjour ! Je m'appelle **Yannis LE CHEVERE**.<br>
 Sur ce compte GitHub, vous trouverez mes projets et travaux réalisés tout au long de mon parcours universitaire.
 
 >  **Astuce** :  
-> - Les dépôts commençant par **"R"** correspondent aux matières (ex : `R1.01` = ressource du semestre 1).
 > - Les dépôts commençant par **"SAE"** correspondent aux projets (ex : `SAE2.06` = projet du semestre 2).
 
 N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
