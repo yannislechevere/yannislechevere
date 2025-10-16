@@ -65,6 +65,5 @@ N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
 # CONTACT
 
 - 📧 **Email** : [yannis.lechevere@outlook.fr](mailto:yannis.lechevere@outlook.fr)
-- 📞 **Téléphone** : +33 6 56 80 32 42
 - 📍 **Localisation** : Lannion, France
 - 📱 **LinkedIn** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannislechevere)
