@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yannislechevere.github.io/portfolio" target="_blank">
+  <a href="https://yannislechevere.github.io/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-007acc?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/Yannis%20Le%20Chevere" target="_blank">
