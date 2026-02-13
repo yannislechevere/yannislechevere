@@ -26,7 +26,7 @@ Bonjour ! Je m'appelle **Yannis LE CHEVÈRE**,
 Étudiant en **2ᵉ année de BUT Informatique** à l’**IUT de Lannion**.
 
 Je m'intéresse particulièrement au **développement web** et à **l’intelligence artificielle**.  
-Je suis actuellement à la recherche d’un **stage de 8 à 12 semaines à partir d’avril 2026** afin de mettre en pratique mes compétences et en acquérir de nouvelles.
+Je suis actuellement à la recherche d’une **alterance de septembre 2026 à juin 2027** afin de mettre en pratique mes compétences et en acquérir de nouvelles.
 
 Sur ce compte GitHub, vous trouverez **l’ensemble de mes projets universitaires et personnels**, réalisés tout au long de mon parcours.
 
