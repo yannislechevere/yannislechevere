@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 2.5em; color:#007acc;">
-  <strong>👋 Bienvenue sur le GitHub de Yannis LE CHEVÈRE</strong>
+  <strong>Bienvenue sur le GitHub de Yannis LE CHEVÈRE</strong>
 </h1>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 ---
 
-## 🧑‍💻 À PROPOS DE MOI
+## À PROPOS DE MOI
 
 Bonjour ! Je m'appelle **Yannis LE CHEVÈRE**,  
-Étudiant en **2ᵉ année de BUT Informatique** à l’**IUT de Lannion**.
+Étudiant en **3ᵉ année de BUT Informatique** à l’**IUT de Lannion**.
 
 Je m'intéresse particulièrement au **développement web** et à **l’intelligence artificielle**.  
 Je suis actuellement à la recherche d’une **alterance de septembre 2026 à juin 2027** afin de mettre en pratique mes compétences et en acquérir de nouvelles.
