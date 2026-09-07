@@ -32,7 +32,7 @@ Sur ce compte GitHub, vous trouverez **l’ensemble de mes projets universitaire
 
 ---
 
-## ⚙️ COMPÉTENCES
+## COMPÉTENCES
 
 <div align="center">
 
