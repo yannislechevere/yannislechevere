@@ -10,7 +10,7 @@
   <a href="https://yannislechevere.github.io/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-007acc?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/Yannis%20Le%20Chevere" target="_blank">
+  <a href="https://www.linkedin.com/in/yannis-le-chevere" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yannis.lechevere@outlook.fr">
